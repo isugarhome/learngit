@@ -3,4 +3,4 @@ git is a free software!
 file have chanaged!
 now test remote push
 add branch dev
-add a conflict branch dev b!
+add a conflict branch

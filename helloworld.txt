@@ -3,3 +3,4 @@ add comment
 add author
 set exit=1
 rep add comment
+rep add author

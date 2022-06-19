@@ -2,4 +2,5 @@ add helloworld
 add comment
 add author
 set exit=1
+rep set exit=1
 rep add comment

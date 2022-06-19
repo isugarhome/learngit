@@ -2,8 +2,6 @@ add helloworld
 add comment
 add author
 set exit=1
-<<<<<<< HEAD
 rep set exit=1
-=======
 rep add comment
->>>>>>> 3ebe7f4 (repeat add comment)
+rep add author
